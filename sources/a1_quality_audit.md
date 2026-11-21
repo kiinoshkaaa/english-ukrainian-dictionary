@@ -1,0 +1,41 @@
+# A1 editorial quality audit
+
+Date: 2026-11-21
+
+## Scope and reference
+
+- Target: contemporary mainstream British English pronunciation, represented with broad UK IPA.
+- CEFR/headword reference: Oxford University Press, *The Oxford 3000 by CEFR level*, A1 section.
+- The Oxford reference supports headword inclusion, level and listed parts of speech. It does not verify UK IPA, Ukrainian translations, or the project's original examples.
+- Pronunciation references: individual Cambridge Dictionary pronunciation entries where a direct entry URL is present. Oxford pronunciation guidance describes its British model as mainstream/unmarked RP and explains broad phonemic transcription conventions.
+
+## Inventory checks
+
+- A1 records: 892
+- Headwords: 892 unique
+- IDs: 892 unique
+- Headword inventory: reconciled to the 892 headwords in the Oxford A1 section
+- Missing/extra headwords in the reconciliation: 0 / 0
+- Folder/level mismatches: 0
+- Blank required fields: none found in the structural pass
+
+## Corrections made in this pass
+
+- Corrected part-of-speech labels where the Oxford A1 list clearly did not support the previous extra labels: `above`, `after`, `game`, `garden`, `good`, `high`, `his`, `hope`, `no`, `please`, `point`, `rule`, `start`, `swim`, `talk`, `type`, `will`, and `wrong`.
+- Restored listed noun/adjective uses for `goodbye`, `hello`, `one`, `opposite`, and `welcome`.
+- Corrected the provisional UK IPA for `hello` from `/heˈləʊ/` to `/həˈləʊ/`; it remains pending re-verification.
+- Removed optional syllable-divider dots from 18 Cambridge-style IPA strings to make the broad transcription format consistent with the project's Oxford-style notation.
+- Downgraded 10 entries that cited a Cambridge-published index PDF rather than an individually inspected dictionary pronunciation entry.
+- Rewrote Oxford-PDF notes so they no longer imply that the CEFR list proves pronunciation, translation or example quality.
+
+## Verification status after this pass
+
+- `verified`: 20
+- `needs_review`: 872
+- `draft`: 0
+
+A record marked `needs_review` is not certified as error-free. The remaining 872 entries still need individual dictionary-level review of pronunciation, meanings, parts of speech, and example/translation pairs. A structural pass and a correct headword inventory are not a substitute for that work.
+
+## Known limitation
+
+This pass does not claim that all 892 IPA transcriptions, Ukrainian translations, examples, or part-of-speech labels have been individually checked against dictionary entries. Do not publish the A1 section as fully proofread until the 872 pending records have been reviewed and their statuses updated with direct evidence.
