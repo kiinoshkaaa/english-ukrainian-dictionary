@@ -132,3 +132,12 @@ For all three, the Ukrainian gloss and original example translation were editori
 One additional correction was made without promoting the record: `bottle` UK IPA corrected from /ˈbɒtl/ to /ˈbɒtəl/, consistent with Cambridge UK /ˈbɒt.əl/. Cambridge labels the ordinary container sense A2, while Oxford is the project's A1 level authority; this difference is flagged and the record remains `needs_review`.
 
 This batch adds three verified records. Other entries remain pending full review.
+
+## Tenth dictionary-level review batch — 2026-11-21
+
+Two further entries were fully checked and promoted to `verified`:
+
+- `boy` — Cambridge confirms UK /bɔɪ/, the A1 countable noun meaning, and the record's example illustrates the core meaning.
+- `brother` — Cambridge confirms UK pronunciation; the project's broad non-rhotic form /ˈbrʌðə/ represents the displayed UK /ˈbrʌð.ə(r)/. Cambridge confirms the A1 countable noun meaning, and the example illustrates it.
+
+The Ukrainian glosses and original example translations were editorially checked. The records for `build` and `building` were not promoted: Cambridge labels the ordinary displayed senses A2, so their Oxford A1 placement needs sense-level review.
