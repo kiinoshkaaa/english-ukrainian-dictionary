@@ -181,3 +181,9 @@ Three entries were fully checked and promoted to `verified`:
 - `cheap` — Cambridge confirms UK /tʃiːp/ and the A1 adjective sense of costing little money. The existing example demonstrates the low-price meaning.
 
 For all three, the Ukrainian gloss and example translation were editorially checked. `call` was not promoted: Cambridge marks the phone-call noun A2 and the naming verb B1; the current example uses the phone-call verb sense, so the Oxford A1 headword placement requires sense-specific reconciliation.
+
+## Fifteenth dictionary-level review batch — 2026-11-21
+
+- `change` was fully checked and promoted to `verified` for its A1 transitive verb sense: exchange one thing for another of a similar type. Cambridge confirms UK /tʃeɪndʒ/ and labels this sense A1. The previous example `I need to change my clothes.` was replaced with `I want to change my job.` to match Cambridge's A1 examples and avoid implying that all senses of the headword are A1. Ukrainian gloss and example translation were editorially checked.
+- `capital` and `century` remain pending: Cambridge labels the inspected core noun senses A2. Oxford's headword-level A1 listing is not sufficient to validate those particular senses.
+- `check` remains pending: the retrieved Cambridge definition for the verb sense 'examine to make sure something is correct/safe' is A2, so the current A1 example needs sense-level review.
