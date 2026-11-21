@@ -101,3 +101,11 @@ Cambridge Grammar confirms the adjective use of `beautiful`. A Cambridge English
 - `begin` and `become`: verb POS and basic example sense cross-checked against the Cambridge English Preliminary vocabulary listing; other fields remain pending.
 
 The Cambridge Preliminary list is used here only as corroboration for POS/sense coverage, not as proof of Oxford A1 level or as a pronunciation source. All five records remain `needs_review`.
+
+
+## Seventh editorial correction batch — 2026-11-21
+
+- `bicycle`: corrected broad UK IPA from `/ˈbaɪsɪkl/` to `/ˈbaɪsɪkəl/`, matching the Cambridge University Press pronunciation index entry. The source is an index, not a direct learner-dictionary entry; record remains `needs_review`.
+- `blonde`: narrowed Ukrainian gloss from `білявий; білявка` to `білявий; світловолосий`, because Oxford's A1 listing gives the adjective entry and the CSV POS was adjective only. The example translation was improved to `У неї світле волосся.` This is an editorial translation correction, not an Oxford-sourced translation.
+
+The Oxford 3000 inventory distinguishes A1 senses from higher-level POS: `best` is adjective A1 (adverb/noun A2), `better` adjective A1 (adverb A2), `between` preposition A1 (adverb A2), and `bill` noun A1 (verb B2). Their current POS entries were retained because they represent the A1 category only. The Cambridge Preliminary list corroborates several of these headwords' basic POS categories but is not the project's CEFR authority.
