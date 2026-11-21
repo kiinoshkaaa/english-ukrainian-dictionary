@@ -84,3 +84,10 @@ Cambridge's displayed senses for `another`, `anyone`, `apartment`, `around`, `as
 Cambridge UK pronunciation references were added for eight further A1 records: `baby`, `back`, `bad`, `bag`, `ball`, `banana`, `bank`, and `bath`. Existing broad IPA forms were consistent with the retrieved Cambridge UK forms. These records remain `needs_review`; this batch did not certify all senses, POS labels, Ukrainian translations, and examples.
 
 Specific editorial flags: `back` currently combines a noun/adverb POS list while its example and gloss demonstrate only the noun; `bad` has a noun label that needs validation for the intended A1 sense; `bank` currently narrows the translation to a financial institution and may need an explicit sense scope; `bath` uses the British collocation `have a bath` in its example.
+
+
+## Fifth review batch — 2026-11-21
+
+Recorded Cambridge Dictionary pronunciation-entry targets for eight further records: `be`, `beautiful`, `because`, `become`, `bed`, `bedroom`, `before`, and `behind`. This is a source-routing step, not a pronunciation verification: these records remain `needs_review` until the individual UK pronunciation entries are directly checked.
+
+Cambridge Grammar confirms the adjective use of `beautiful`. A Cambridge English–German result confirms `become` is a verb and gives the core sense 'to come or grow to be', but its displayed /biˈkam/ is not a UK IPA form and was explicitly not used to validate the CSV transcription. For `behind`, the example demonstrates the preposition, while the record also lists an adverb; sense coverage needs review.
