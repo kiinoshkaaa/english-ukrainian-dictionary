@@ -141,3 +141,15 @@ Two further entries were fully checked and promoted to `verified`:
 - `brother` — Cambridge confirms UK pronunciation; the project's broad non-rhotic form /ˈbrʌðə/ represents the displayed UK /ˈbrʌð.ə(r)/. Cambridge confirms the A1 countable noun meaning, and the example illustrates it.
 
 The Ukrainian glosses and original example translations were editorially checked. The records for `build` and `building` were not promoted: Cambridge labels the ordinary displayed senses A2, so their Oxford A1 placement needs sense-level review.
+
+## Eleventh dictionary-level review batch — 2026-11-21
+
+Five entries were checked and promoted to `verified`:
+
+- `brown` — Cambridge confirms UK /braʊn/ and A1 noun/adjective colour senses. The example demonstrates the adjective.
+- `busy` — Cambridge confirms UK /ˈbɪz.i/ and an A1 adjective sense for a place full of activity/people. The example was revised from a person being occupied (A2) to `This is a busy street.`, with Ukrainian `Це жвава вулиця.`
+- `butter` — Cambridge confirms UK pronunciation (represented in broad non-rhotic form as /ˈbʌtə/) and the A1 uncountable noun sense.
+- `buy` — Cambridge confirms UK /baɪ/ and the A1 verb sense of obtaining something by paying money.
+- `can` — Cambridge confirms strong /kæn/ and weak /kən/ UK forms and A1 modal uses for ability, permission and requests. The IPA field now records both strong and weak forms.
+
+For each entry, the example was checked against the selected sense and the Ukrainian gloss/example translation were editorially checked. The word `boyfriend` was not promoted: Cambridge labels its ordinary romantic-relationship noun sense A2, so the Oxford A1 placement needs sense-level reconciliation.
