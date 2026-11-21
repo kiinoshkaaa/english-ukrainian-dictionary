@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Structural checks only; human source review is still required."""
+"""Structural checks only; source accuracy still requires editorial review."""
 import csv
 import re
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -12,11 +13,17 @@ FIELDS = ["id", "headword", "ipa_uk", "ukrainian_translation", "part_of_speech",
 STATUSES = {"verified", "needs_review", "draft"}
 
 
+def normalize_headword(value):
+    return re.sub(r"\\s+", " ", (value or "").strip().casefold())
+
+
 def main():
     errors = []
-    ids = set()
+    ids = {}
     words = {}
-    total = verified = 0
+    totals = Counter()
+    statuses = Counter()
+
     for folder in LEVELS:
         path = ROOT / "data" / folder / "words.csv"
         if not path.exists():
@@ -28,34 +35,46 @@ def main():
                 errors.append(f"{path.relative_to(ROOT)}: unexpected CSV header")
                 continue
             for line, row in enumerate(reader, 2):
-                total += 1
+                level = folder.upper()
+                totals[level] += 1
                 where = f"{path.relative_to(ROOT)}:{line}"
                 for field in FIELDS:
                     if not (row.get(field) or "").strip():
                         errors.append(f"{where}: empty required field {field}")
+
                 entry_id = (row.get("id") or "").strip()
                 headword = (row.get("headword") or "").strip()
-                if entry_id and entry_id in ids:
-                    errors.append(f"{where}: duplicate id {entry_id}")
-                ids.add(entry_id)
-                key = re.sub(r"\\s+", " ", headword.casefold())
-                if key and key in words:
-                    errors.append(f"{where}: duplicate headword {headword} (first: {words[key]})")
-                elif key:
-                    words[key] = where
-                if (row.get("level") or "").strip().lower() != folder:
-                    errors.append(f"{where}: level does not match folder {folder.upper()}")
+                if entry_id:
+                    if entry_id in ids:
+                        errors.append(f"{where}: duplicate id {entry_id} (first: {ids[entry_id]})")
+                    else:
+                        ids[entry_id] = where
+
+                key = normalize_headword(headword)
+                if key:
+                    if key in words:
+                        errors.append(f"{where}: duplicate headword {headword!r} (first: {words[key]})")
+                    else:
+                        words[key] = where
+
+                if (row.get("level") or "").strip().upper() != level:
+                    errors.append(f"{where}: level does not match folder {level}")
+
                 status = (row.get("verification_status") or "").strip()
-                if status and status not in STATUSES:
-                    errors.append(f"{where}: invalid verification_status {status}")
-                if status == "verified":
-                    verified += 1
-    print(f"Records: {total}; marked verified: {verified}")
+                if status not in STATUSES:
+                    errors.append(f"{where}: invalid verification_status {status!r}")
+                else:
+                    statuses[status] += 1
+
+    print("Records by level: " + ", ".join(f"{level}={totals[level]}" for level in LEVELS))
+    print("Verification status: " + ", ".join(f"{status}={statuses[status]}" for status in sorted(STATUSES)))
+    print(f"Total unique headwords: {len(words)}")
     if errors:
         print("Validation issues:")
-        print("\\n".join(f"- {item}" for item in errors))
+        for item in errors:
+            print(f"- {item}")
         return 1
-    print("Structural checks passed. IPA, translations, CEFR levels and examples still require editorial review.")
+    print("Structural checks passed. This does not verify IPA, translations, CEFR assignments or example quality.")
     return 0
 
 
