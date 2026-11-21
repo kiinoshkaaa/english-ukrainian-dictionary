@@ -77,3 +77,10 @@ The UK IPA was checked where a Cambridge pronunciation result was available. The
 ### CEFR and usage flags
 
 Cambridge's displayed senses for `another`, `anyone`, `apartment`, `around`, `ask`, and `aunt` include levels A2 or B1, whereas the project's Oxford 3000 source places the headwords in A1. The project continues to use Oxford as the level authority; these cross-dictionary differences are flagged for sense-specific review. Cambridge also notes that `apartment` is mainly US for the ordinary residential meaning and that UK usage usually prefers `flat` (though `apartment` also occurs in UK business usage). This may require improving the Ukrainian gloss/example to make the intended British usage clear.
+
+
+## Fourth pronunciation-source batch — 2026-11-21
+
+Cambridge UK pronunciation references were added for eight further A1 records: `baby`, `back`, `bad`, `bag`, `ball`, `banana`, `bank`, and `bath`. Existing broad IPA forms were consistent with the retrieved Cambridge UK forms. These records remain `needs_review`; this batch did not certify all senses, POS labels, Ukrainian translations, and examples.
+
+Specific editorial flags: `back` currently combines a noun/adverb POS list while its example and gloss demonstrate only the noun; `bad` has a noun label that needs validation for the intended A1 sense; `bank` currently narrows the translation to a financial institution and may need an explicit sense scope; `bath` uses the British collocation `have a bath` in its example.
