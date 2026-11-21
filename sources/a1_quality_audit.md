@@ -63,3 +63,17 @@ The batch does not constitute full proofreading of these entries.
 ## Second pronunciation-source batch — 2026-11-21
 
 Cambridge UK pronunciation entries were checked and linked for seven further headwords: `across`, `activity`, `after`, `afternoon`, `age`, `air`, and `always`. The broad IPA already in the CSV was retained where consistent with Cambridge's UK rendering. For `across`, Cambridge grammar also confirms preposition and adverb uses. For `always`, Cambridge confirms the core A1 adverb sense. All seven records remain `needs_review` because full verification of Ukrainian translations and example pairs, plus any remaining lexical details, has not been completed.
+
+
+## Third pronunciation and usage-source batch — 2026-11-21
+
+Cambridge Dictionary sources were recorded for 15 entries across two additional batches:
+
+- `animal`, `answer`, `another`, `anyone`, `apartment`, `area`, `around`;
+- `anything`, `April`, `arm`, `ask`, `at`, `aunt`, `autumn`, `away`.
+
+The UK IPA was checked where a Cambridge pronunciation result was available. The record for `at` was expanded to show both strong /æt/ and weak /ət/ forms. These records remain `needs_review` because the whole record (especially the Ukrainian translation and example pair) has not been fully verified.
+
+### CEFR and usage flags
+
+Cambridge's displayed senses for `another`, `anyone`, `apartment`, `around`, `ask`, and `aunt` include levels A2 or B1, whereas the project's Oxford 3000 source places the headwords in A1. The project continues to use Oxford as the level authority; these cross-dictionary differences are flagged for sense-specific review. Cambridge also notes that `apartment` is mainly US for the ordinary residential meaning and that UK usage usually prefers `flat` (though `apartment` also occurs in UK business usage). This may require improving the Ukrainian gloss/example to make the intended British usage clear.
