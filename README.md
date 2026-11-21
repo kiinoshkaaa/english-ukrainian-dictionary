@@ -4,7 +4,7 @@ A carefully curated learner's dictionary for Ukrainian-speaking learners of Brit
 
 ## Editorial principles
 - Target variety: contemporary Standard Southern British English (SSBE).
-- Pronunciation: UK IPA, checked against authoritative learner's dictionaries.
+- Pronunciation: UK IPA; records are marked verified only after checking an individual authoritative dictionary entry.
 - Translations and example translations: Ukrainian.
 - CEFR levels are assigned from published vocabulary references, not from arbitrary word-count targets.
 - Never label a record verified unless its pronunciation and meaning have been checked against a cited source.
@@ -37,7 +37,7 @@ CSV fields: id, headword, ipa_uk, ukrainian_translation, part_of_speech, example
 See data/schema.json and sources/references.md.
 
 ## Status
-This is an in-progress project, not a completed dictionary. The initial 100-entry batch has been reclassified against the Oxford 3000 by CEFR level list: 97 entries are now in A1 and three greeting phrases remain in the Pre-A1 supplement. A2, B1 and B2 CSV files are still empty templates. The A1 file is only a partial build toward Oxford's approximately 900 A1 entries; pronunciation, translations and examples still need individual editorial review.
+The A1 headword inventory contains 892 entries and has been reconciled against the A1 section of the Oxford 3000 by CEFR level PDF. This is a complete headword inventory for that reference list, not a fully verified learner's dictionary. After the editorial QA pass, 20 records remain marked `verified` on the basis of individually linked Cambridge pronunciation entries; 872 records remain `needs_review`. These pending records require dictionary-level checks of UK IPA, Ukrainian meanings, parts of speech, and example/translation quality. The A0 supplement has 3 entries. A2, B1 and B2 remain empty templates.
 
 ## Workflow
 1. Build level-specific candidate inventories from the Oxford lists.
