@@ -118,3 +118,17 @@ The Oxford 3000 inventory distinguishes A1 senses from higher-level POS: `best` 
 - `both`: Cambridge UK IPA /bəʊθ/ confirmed. Oxford lists determiner and pronoun at A1; the CSV includes both, and its example illustrates determiner use.
 
 These are source-backed pronunciation/POS checks only. All three entries remain `needs_review` until Ukrainian translations and example pairs are fully checked.
+
+## Ninth dictionary-level review batch — 2026-11-21
+
+Three records were fully checked and promoted to `verified`:
+
+- `box` — Cambridge confirms UK /bɒks/, the A1 container noun sense, and the current example illustrates that sense.
+- `bread` — Cambridge confirms UK /bred/, the A1 uncountable food noun sense, and the current example illustrates that sense.
+- `breakfast` — Cambridge confirms UK /ˈbrek.fəst/, the A1 noun sense, and the current example illustrates that sense.
+
+For all three, the Ukrainian gloss and original example translation were editorially checked.
+
+One additional correction was made without promoting the record: `bottle` UK IPA corrected from /ˈbɒtl/ to /ˈbɒtəl/, consistent with Cambridge UK /ˈbɒt.əl/. Cambridge labels the ordinary container sense A2, while Oxford is the project's A1 level authority; this difference is flagged and the record remains `needs_review`.
+
+This batch adds three verified records. Other entries remain pending full review.
