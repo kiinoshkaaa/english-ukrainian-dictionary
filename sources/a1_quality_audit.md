@@ -39,3 +39,13 @@ A record marked `needs_review` is not certified as error-free. The remaining 872
 ## Known limitation
 
 This pass does not claim that all 892 IPA transcriptions, Ukrainian translations, examples, or part-of-speech labels have been individually checked against dictionary entries. Do not publish the A1 section as fully proofread until the 872 pending records have been reviewed and their statuses updated with direct evidence.
+
+
+## Follow-up dictionary-level review — 2026-11-21
+
+First verified batch: **2 entries**.
+
+- `about` — UK pronunciation, core A1 senses and part-of-speech use checked against Cambridge Dictionary; example and Ukrainian translation editorially checked.
+- `above` — UK IPA checked against Cambridge Dictionary pronunciation; core meanings and part-of-speech use checked against learner-dictionary evidence; example and Ukrainian translation editorially checked.
+
+Both records are now marked `verified` in `data/a1/words.csv`. The remaining entries have not been promoted based on this batch and remain subject to individual review. This is a continuing audit, not a claim that the A1 list is fully verified.
