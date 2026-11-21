@@ -164,3 +164,10 @@ Cambridge UK pronunciation pages were directly retrieved for four additional wor
 - `chair`: Cambridge /tʃeə r/, represented as /tʃeə/.
 
 These are pronunciation-only checks. Cambridge dictionary definition pages returned HTTP 403 in this review, so meanings, parts of speech, Ukrainian translations, and example pairs were not independently verified. None of these four records was promoted to `verified`. Do not count this batch as completed full-entry verification.
+
+## Thirteenth dictionary-level review batch — 2026-11-21
+
+- `cheese` was fully checked and promoted to `verified`: Cambridge confirms UK /tʃiːz/, the A1 noun meaning, and a food-related example. The CSV example `Would you like some cheese?` matches that sense; the Ukrainian gloss and translation were editorially checked.
+- `cat` was checked against Cambridge: UK /kæt/, A1 countable noun pet sense. Its existing CSV status was already `verified`, so no status change was needed.
+- `card` was not promoted. The current example `Can I pay by card?` illustrates a Cambridge B1 payment-card sense, not a clearly supported A1 sense. The Oxford headword-level A1 listing does not by itself validate that specific sense.
+- `chicken` was not promoted: Cambridge labels the ordinary bird/meat noun sense A2, whereas the project uses Oxford for headword-level CEFR placement. Flag for sense-level reconciliation.
