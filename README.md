@@ -37,7 +37,7 @@ CSV fields: id, headword, ipa_uk, ukrainian_translation, part_of_speech, example
 See data/schema.json and sources/references.md.
 
 ## Status
-The A1 headword inventory contains 892 entries and has been reconciled against the A1 section of the Oxford 3000 by CEFR level PDF. This is a complete headword inventory for that reference list, not a fully verified learner's dictionary. After the editorial QA pass, 20 records remain marked `verified` on the basis of individually linked Cambridge pronunciation entries; 872 records remain `needs_review`. These pending records require dictionary-level checks of UK IPA, Ukrainian meanings, parts of speech, and example/translation quality. The A0 supplement has 3 entries. A2, B1 and B2 remain empty templates.
+The A1 headword inventory contains 892 entries and has been reconciled against the A1 section of the Oxford 3000 by CEFR level PDF. This is a complete headword inventory for that reference list, not a fully verified learner's dictionary. After the latest editorial QA pass, 44 records are marked `verified`; 848 records remain `needs_review`. A `verified` label means the UK pronunciation and core meaning have been checked against an individual dictionary entry, with the Ukrainian gloss and original example pair editorially reviewed. CEFR placement follows the Oxford level list; where another dictionary assigns a different level, the difference is recorded in the entry notes. These pending records require dictionary-level checks of UK IPA, Ukrainian meanings, parts of speech, and example/translation quality. The A0 supplement has 3 entries. A2, B1 and B2 remain empty templates.
 
 ## Workflow
 1. Build level-specific candidate inventories from the Oxford lists.
