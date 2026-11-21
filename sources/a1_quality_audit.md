@@ -153,3 +153,14 @@ Five entries were checked and promoted to `verified`:
 - `can` — Cambridge confirms strong /kæn/ and weak /kən/ UK forms and A1 modal uses for ability, permission and requests. The IPA field now records both strong and weak forms.
 
 For each entry, the example was checked against the selected sense and the Ukrainian gloss/example translation were editorially checked. The word `boyfriend` was not promoted: Cambridge labels its ordinary romantic-relationship noun sense A2, so the Oxford A1 placement needs sense-level reconciliation.
+
+## Twelfth pronunciation review batch — 2026-11-21
+
+Cambridge UK pronunciation pages were directly retrieved for four additional words and their broad UK transcriptions were checked:
+
+- `car`: Cambridge /kɑː r/, represented in this project's broad non-rhotic style as /kɑː/.
+- `centre`: Cambridge /ˈsen.tə r/, represented as /ˈsentə/.
+- `carrot`: Cambridge /ˈkær.ət/, represented as /ˈkærət/.
+- `chair`: Cambridge /tʃeə r/, represented as /tʃeə/.
+
+These are pronunciation-only checks. Cambridge dictionary definition pages returned HTTP 403 in this review, so meanings, parts of speech, Ukrainian translations, and example pairs were not independently verified. None of these four records was promoted to `verified`. Do not count this batch as completed full-entry verification.
