@@ -171,3 +171,13 @@ These are pronunciation-only checks. Cambridge dictionary definition pages retur
 - `cat` was checked against Cambridge: UK /kæt/, A1 countable noun pet sense. Its existing CSV status was already `verified`, so no status change was needed.
 - `card` was not promoted. The current example `Can I pay by card?` illustrates a Cambridge B1 payment-card sense, not a clearly supported A1 sense. The Oxford headword-level A1 listing does not by itself validate that specific sense.
 - `chicken` was not promoted: Cambridge labels the ordinary bird/meat noun sense A2, whereas the project uses Oxford for headword-level CEFR placement. Flag for sense-level reconciliation.
+
+## Fourteenth dictionary-level review batch — 2026-11-21
+
+Three entries were fully checked and promoted to `verified`:
+
+- `cake` — Cambridge confirms UK /keɪk/ and the A1 food noun sense (countable and uncountable). The existing example demonstrates the food sense.
+- `camera` — Cambridge confirms UK /ˈkæm.rə/ and the A1 countable noun meaning. The project's broad transcription /ˈkæmərə/ is retained as a broad representation.
+- `cheap` — Cambridge confirms UK /tʃiːp/ and the A1 adjective sense of costing little money. The existing example demonstrates the low-price meaning.
+
+For all three, the Ukrainian gloss and example translation were editorially checked. `call` was not promoted: Cambridge marks the phone-call noun A2 and the naming verb B1; the current example uses the phone-call verb sense, so the Oxford A1 headword placement requires sense-specific reconciliation.
