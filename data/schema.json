@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "language_pair": "en-uk",
+  "variety": "British English (SSBE)",
+  "required_fields": [
+    "id",
+    "headword",
+    "ipa_uk",
+    "ukrainian_translation",
+    "part_of_speech",
+    "example_en",
+    "example_uk",
+    "level",
+    "category",
+    "source",
+    "verification_status",
+    "notes"
+  ],
+  "levels": [
+    "A0",
+    "A1",
+    "A2",
+    "B1",
+    "B2"
+  ],
+  "verification_status": [
+    "verified",
+    "needs_review",
+    "draft"
+  ],
+  "notes": "A0 is an editorial foundation band, not an official CEFR level. needs_review and draft entries must not be counted as verified."
+}
