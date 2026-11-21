@@ -91,3 +91,13 @@ Specific editorial flags: `back` currently combines a noun/adverb POS list while
 Recorded Cambridge Dictionary pronunciation-entry targets for eight further records: `be`, `beautiful`, `because`, `become`, `bed`, `bedroom`, `before`, and `behind`. This is a source-routing step, not a pronunciation verification: these records remain `needs_review` until the individual UK pronunciation entries are directly checked.
 
 Cambridge Grammar confirms the adjective use of `beautiful`. A Cambridge English–German result confirms `become` is a verb and gives the core sense 'to come or grow to be', but its displayed /biˈkam/ is not a UK IPA form and was explicitly not used to validate the CSV transcription. For `behind`, the example demonstrates the preposition, while the record also lists an adverb; sense coverage needs review.
+
+
+## Sixth editorial correction batch — 2026-11-21
+
+- `beautiful`: corrected UK IPA from `/ˈbjuːtɪfl/` to `/ˈbjuːtɪfəl/`. Cambridge displays UK `/ˈbjuː.tɪ.fəl/`; the previous transcription omitted the unstressed vowel. The record remains `needs_review` because translation and example pair have not been fully audited.
+- `before`: expanded POS to preposition, adverb, conjunction, consistent with the Cambridge English Preliminary vocabulary listing. Current example covers only the preposition.
+- `behind`: retained preposition and adverb, supported by the Cambridge English Preliminary list; current example covers only the preposition.
+- `begin` and `become`: verb POS and basic example sense cross-checked against the Cambridge English Preliminary vocabulary listing; other fields remain pending.
+
+The Cambridge Preliminary list is used here only as corroboration for POS/sense coverage, not as proof of Oxford A1 level or as a pronunciation source. All five records remain `needs_review`.
