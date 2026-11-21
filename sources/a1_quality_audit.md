@@ -109,3 +109,12 @@ The Cambridge Preliminary list is used here only as corroboration for POS/sense 
 - `blonde`: narrowed Ukrainian gloss from `білявий; білявка` to `білявий; світловолосий`, because Oxford's A1 listing gives the adjective entry and the CSV POS was adjective only. The example translation was improved to `У неї світле волосся.` This is an editorial translation correction, not an Oxford-sourced translation.
 
 The Oxford 3000 inventory distinguishes A1 senses from higher-level POS: `best` is adjective A1 (adverb/noun A2), `better` adjective A1 (adverb A2), `between` preposition A1 (adverb A2), and `bill` noun A1 (verb B2). Their current POS entries were retained because they represent the A1 category only. The Cambridge Preliminary list corroborates several of these headwords' basic POS categories but is not the project's CEFR authority.
+
+
+## Eighth pronunciation and POS batch — 2026-11-21
+
+- `believe`: Cambridge UK IPA /bɪˈliːv/ confirmed and linked. Cambridge currently labels the main displayed sense A2, while Oxford 3000 includes the headword at A1. The Oxford level is retained; the discrepancy is flagged for sense-level review.
+- `better`: Cambridge UK pronunciation corresponds to broad non-rhotic /ˈbetə/. Oxford's A1 POS is adjective; adverb is A2 and noun B1, so the CSV correctly keeps adjective only.
+- `both`: Cambridge UK IPA /bəʊθ/ confirmed. Oxford lists determiner and pronoun at A1; the CSV includes both, and its example illustrates determiner use.
+
+These are source-backed pronunciation/POS checks only. All three entries remain `needs_review` until Ukrainian translations and example pairs are fully checked.
