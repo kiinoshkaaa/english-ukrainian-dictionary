@@ -65,6 +65,13 @@ def main():
                     errors.append(f"{where}: invalid verification_status {status!r}")
                 else:
                     statuses[status] += 1
+                    source = (row.get("source") or "").strip()
+                    if status == "verified" and "The_Oxford_3000_by_CEFR_level.pdf" in source:
+                        errors.append(f"{where}: Oxford CEFR list alone cannot verify pronunciation or translation")
+
+                ipa = (row.get("ipa_uk") or "").strip()
+                if ipa and not (ipa.startswith("/") and ipa.endswith("/") and len(ipa) > 2):
+                    errors.append(f"{where}: IPA must be enclosed in /slashes/")
 
     print("Records by level: " + ", ".join(f"{level}={totals[level]}" for level in LEVELS))
     print("Verification status: " + ", ".join(f"{status}={statuses[status]}" for status in sorted(STATUSES)))
