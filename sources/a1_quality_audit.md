@@ -58,3 +58,8 @@ Cambridge Dictionary UK pronunciation pages were located and recorded for eight 
 **CEFR note:** Cambridge's entry for `advice` labels its displayed sense A2, while the project follows the Oxford 3000 by CEFR list, which includes `advice` at A1. This is recorded as a source-label difference to investigate, not silently changed. The Oxford list remains the project's level authority unless the project scope is deliberately revised.
 
 The batch does not constitute full proofreading of these entries.
+
+
+## Second pronunciation-source batch — 2026-11-21
+
+Cambridge UK pronunciation entries were checked and linked for seven further headwords: `across`, `activity`, `after`, `afternoon`, `age`, `air`, and `always`. The broad IPA already in the CSV was retained where consistent with Cambridge's UK rendering. For `across`, Cambridge grammar also confirms preposition and adverb uses. For `always`, Cambridge confirms the core A1 adverb sense. All seven records remain `needs_review` because full verification of Ukrainian translations and example pairs, plus any remaining lexical details, has not been completed.
