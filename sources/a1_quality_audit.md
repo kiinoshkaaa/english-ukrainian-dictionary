@@ -187,3 +187,14 @@ For all three, the Ukrainian gloss and example translation were editorially chec
 - `change` was fully checked and promoted to `verified` for its A1 transitive verb sense: exchange one thing for another of a similar type. Cambridge confirms UK /tʃeɪndʒ/ and labels this sense A1. The previous example `I need to change my clothes.` was replaced with `I want to change my job.` to match Cambridge's A1 examples and avoid implying that all senses of the headword are A1. Ukrainian gloss and example translation were editorially checked.
 - `capital` and `century` remain pending: Cambridge labels the inspected core noun senses A2. Oxford's headword-level A1 listing is not sufficient to validate those particular senses.
 - `check` remains pending: the retrieved Cambridge definition for the verb sense 'examine to make sure something is correct/safe' is A2, so the current A1 example needs sense-level review.
+
+## Sixteenth dictionary-level review batch — 2026-11-21
+
+Three A1 entries were fully reviewed and promoted to `verified`:
+
+- `class` — Cambridge confirms UK /klɑːs/ and the A1 noun sense for a group of students taught together. The existing example about an English class matches this sense. Ukrainian gloss and example translation were editorially checked.
+- `coat` — Cambridge confirms UK /kəʊt/ and the A1 countable noun sense for outer clothing worn over other clothes, usually for warmth. The existing example matches this clothing sense. Ukrainian gloss and example translation were editorially checked.
+- `cold` — Cambridge confirms UK /kəʊld/ and the A1 adjective sense for low temperature. The record was narrowed from adjective+noun to adjective only because Cambridge labels the common-illness noun sense A2. The example and Ukrainian translation match the retained adjective sense.
+
+The Oxford 3000 remains the project's CEFR headword-level authority; Cambridge is used here to check the specific sense, UK pronunciation and level evidence.
+
