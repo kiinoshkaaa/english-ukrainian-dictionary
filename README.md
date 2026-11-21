@@ -9,17 +9,26 @@ A carefully curated learner's dictionary for Ukrainian-speaking learners of Brit
 - CEFR levels are assigned from published vocabulary references, not from arbitrary word-count targets.
 - Never label a record verified unless its pronunciation and meaning have been checked against a cited source.
 
-## Vocabulary scope and level assignment
-- **Pre-A1 (formerly called A0 in this project):** a clearly labelled foundation supplement. Pre-A1 is not one of the six formal CEFR levels, and this supplement must not be presented as an official CEFR vocabulary list.
-- **A1–B2:** use the Oxford 3000 by CEFR level as the main core-word reference. Preserve the level assigned by Oxford; do not force equal-sized groups.
-- **B2 extensions:** include additional B2 entries from the Oxford 5000 only when they are explicitly labelled B2. Do not import C1 entries into this dictionary.
-- Use the English Vocabulary Profile as a secondary reference, especially where a word has different meanings or uses at different levels. Assign levels to the relevant sense/use, not blindly to the spelling alone.
-- Count distinct headwords and lexical senses separately in project reports. A headword may occur at more than one level only when the source supports a different level for a distinct meaning or part of speech.
-- Do not promise a fixed total such as 5,000 if the selected references do not support that total. Completeness and correct level assignment take priority over reaching a target.
+## Vocabulary scope and reference counts
+The main core list is the Oxford 3000, whose words are assigned to A1, A2, B1 and B2. Oxford University Press describes the revised list's approximate level profile as:
+- A1: about 900 words
+- A2: about 800 words
+- B1: about 700 words
+- B2: about 600 words
+
+These are the published approximate counts for the Oxford 3000, not universal CEFR quotas and not a promise that every dictionary must contain exactly these numbers. The CEFR itself does not prescribe a fixed vocabulary count for each level.
+
+- **Pre-A1 (formerly called A0 in this project):** an optional foundation supplement. It is not an official CEFR level and must not be presented as one.
+- **A1–B2:** preserve Oxford's level labels for each headword/part of speech or sense where the source distinguishes them.
+- **B2 extensions:** additional B2 entries from Oxford 5000 may be added only when the source labels them B2. C1 entries are excluded.
+- Use English Vocabulary Profile as a secondary reference where a word has different meanings or uses at different levels.
+- A headword may appear at more than one level only when the source supports a different level for a distinct meaning, part of speech or use.
+- Do not pad or truncate a level to reach a desired number. Completeness and accurate classification take priority.
 
 ## Primary references
-- Oxford Learner's Dictionaries, Oxford 3000 and Oxford 5000: https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000
-- Oxford 3000 by CEFR level: https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf
+- Oxford 3000 and 5000: https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000
+- Oxford 3000 by CEFR level (PDF): https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf
+- Oxford's explanation of the CEFR: https://www.oxfordlearnersdictionaries.co.uk/about/wordlists/cefr
 - English Vocabulary Profile: https://englishprofile.org/
 
 ## Data format
@@ -28,14 +37,14 @@ CSV fields: id, headword, ipa_uk, ukrainian_translation, part_of_speech, example
 See data/schema.json and sources/references.md.
 
 ## Status
-The repository is an in-progress project, not yet a complete dictionary. The current Pre-A1 file contains 100 entries; the A1, A2, B1 and B2 files are still empty templates. These counts describe the repository's current contents, not the number of words that exist at each level.
+This is an in-progress project, not a completed dictionary. The existing 100 entries are a provisional foundation batch; their current A0 labels must be audited against the source level lists. A1, A2, B1 and B2 CSV files are currently empty templates. Repository counts are not yet equivalent to reference-list counts.
 
 ## Workflow
-1. Build the candidate list from the level-specific reference lists.
-2. Record the source level and distinguish headwords, senses, and parts of speech.
+1. Build level-specific candidate inventories from the Oxford lists.
+2. Preserve the source's CEFR assignment and part-of-speech/sense distinctions.
 3. Verify UK IPA and core meanings against cited dictionary sources.
 4. Write original, natural British-English examples and accurate Ukrainian translations.
-5. Run python scripts/validate.py and manually review flagged records.
-6. Generate the PDF only after the data and Unicode font rendering have been checked.
+5. Run scripts/validate.py and manually review flagged records.
+6. Generate the PDF only after the vocabulary data and Unicode font rendering have been checked.
 
-Structural validation does not replace editorial verification of IPA, meanings, CEFR levels or example quality.
+Structural validation does not replace editorial verification of IPA, translations, CEFR assignments or examples.
