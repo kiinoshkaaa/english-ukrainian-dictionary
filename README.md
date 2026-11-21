@@ -37,7 +37,7 @@ CSV fields: id, headword, ipa_uk, ukrainian_translation, part_of_speech, example
 See data/schema.json and sources/references.md.
 
 ## Status
-This is an in-progress project, not a completed dictionary. The existing 100 entries are a provisional foundation batch; their current A0 labels must be audited against the source level lists. A1, A2, B1 and B2 CSV files are currently empty templates. Repository counts are not yet equivalent to reference-list counts.
+This is an in-progress project, not a completed dictionary. The initial 100-entry batch has been reclassified against the Oxford 3000 by CEFR level list: 97 entries are now in A1 and three greeting phrases remain in the Pre-A1 supplement. A2, B1 and B2 CSV files are still empty templates. The A1 file is only a partial build toward Oxford's approximately 900 A1 entries; pronunciation, translations and examples still need individual editorial review.
 
 ## Workflow
 1. Build level-specific candidate inventories from the Oxford lists.
