@@ -14,7 +14,7 @@ STATUSES = {"verified", "needs_review", "draft"}
 
 
 def normalize_headword(value):
-    return re.sub(r"\\s+", " ", (value or "").strip().casefold())
+    return re.sub(r"\s+", " ", (value or "").strip().casefold())
 
 
 def main():
