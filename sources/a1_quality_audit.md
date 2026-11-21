@@ -49,3 +49,12 @@ First verified batch: **2 entries**.
 - `above` — UK IPA checked against Cambridge Dictionary pronunciation; core meanings and part-of-speech use checked against learner-dictionary evidence; example and Ukrainian translation editorially checked.
 
 Both records are now marked `verified` in `data/a1/words.csv`. The remaining entries have not been promoted based on this batch and remain subject to individual review. This is a continuing audit, not a claim that the A1 list is fully verified.
+
+
+## Pronunciation-source batch — 2026-11-21
+
+Cambridge Dictionary UK pronunciation pages were located and recorded for eight further entries: `action`, `actor`, `actress`, `add`, `address`, `adult`, `advice`, and `afraid`. Their IPA values were retained because the available Cambridge results were consistent with the existing broad UK transcriptions. Their records remain `needs_review`: this batch did not independently verify every meaning, Ukrainian translation, part-of-speech label, and example.
+
+**CEFR note:** Cambridge's entry for `advice` labels its displayed sense A2, while the project follows the Oxford 3000 by CEFR list, which includes `advice` at A1. This is recorded as a source-label difference to investigate, not silently changed. The Oxford list remains the project's level authority unless the project scope is deliberately revised.
+
+The batch does not constitute full proofreading of these entries.
