@@ -22,7 +22,7 @@ For every published entry, record at least one source that directly supports the
 Do not invent source URLs, IPA, CEFR labels or dictionary confirmations. If a source cannot be checked, set verification_status to needs_review and explain the gap in notes.
 
 ## CEFR levels
-The CEFR describes language proficiency and does not prescribe a fixed number of vocabulary items for each level. A0/Pre-A1 is an editorial foundation supplement, not an official CEFR level. For A1–B2, use Oxford's level labels as the primary classification for the Oxford 3000 core list. Use English Vocabulary Profile as a secondary reference, particularly when senses, parts of speech or uses have different levels. Never infer a CEFR level solely from perceived difficulty.
+The CEFR describes language proficiency and does not prescribe a fixed number of vocabulary items for each level. A0/Pre-A1 is an editorial foundation supplement, not an official CEFR level. For A1–B2, use the current Oxford 3000 online wordlist as the primary classification for each headword and part of speech. Treat the downloadable PDFs as static snapshots; where they conflict with the current online wordlist, document the discrepancy and follow the current online assignment. Use English Vocabulary Profile as a secondary reference, particularly when senses, parts of speech or uses have different levels. Never infer a CEFR level solely from perceived difficulty.
 
 ## UK pronunciation
 Target contemporary Standard Southern British English (SSBE). Preserve lexical stress and vowel length. Distinguish UK forms from US forms. Where reputable sources show more than one UK pronunciation, record the selected form and note the variant.
