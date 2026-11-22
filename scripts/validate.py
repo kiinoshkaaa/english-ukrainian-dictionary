@@ -61,9 +61,9 @@ def main():
                 entry_key = (
                     level,
                     key,
-                    re.sub(r"\\s+", " ", (row.get("part_of_speech") or "").strip().casefold()),
-                    re.sub(r"\\s+", " ", (row.get("ukrainian_translation") or "").strip().casefold()),
-                    re.sub(r"\\s+", " ", (row.get("example_en") or "").strip().casefold()),
+                    re.sub(r"\s+", " ", (row.get("part_of_speech") or "").strip().casefold()),
+                    re.sub(r"\s+", " ", (row.get("ukrainian_translation") or "").strip().casefold()),
+                    re.sub(r"\s+", " ", (row.get("example_en") or "").strip().casefold()),
                 )
                 if key:
                     if entry_key in entries:
