@@ -20,7 +20,8 @@ def normalize_headword(value):
 def main():
     errors = []
     ids = {}
-    words = {}
+    unique_headwords = set()
+    entries = {}
     totals = Counter()
     statuses = Counter()
 
@@ -52,10 +53,23 @@ def main():
 
                 key = normalize_headword(headword)
                 if key:
-                    if key in words:
-                        errors.append(f"{where}: duplicate headword {headword!r} (first: {words[key]})")
+                    unique_headwords.add(key)
+
+                # A headword may legitimately have multiple POS/sense records.
+                # Flag only a repeated entry with the same level, headword,
+                # POS, Ukrainian gloss and example sentence.
+                entry_key = (
+                    level,
+                    key,
+                    re.sub(r"\\s+", " ", (row.get("part_of_speech") or "").strip().casefold()),
+                    re.sub(r"\\s+", " ", (row.get("ukrainian_translation") or "").strip().casefold()),
+                    re.sub(r"\\s+", " ", (row.get("example_en") or "").strip().casefold()),
+                )
+                if key:
+                    if entry_key in entries:
+                        errors.append(f"{where}: duplicate entry for {headword!r} (first: {entries[entry_key]})")
                     else:
-                        words[key] = where
+                        entries[entry_key] = where
 
                 if (row.get("level") or "").strip().upper() != level:
                     errors.append(f"{where}: level does not match folder {level}")
@@ -75,7 +89,7 @@ def main():
 
     print("Records by level: " + ", ".join(f"{level}={totals[level]}" for level in LEVELS))
     print("Verification status: " + ", ".join(f"{status}={statuses[status]}" for status in sorted(STATUSES)))
-    print(f"Total unique headwords: {len(words)}")
+    print(f"Total unique headwords: {len(unique_headwords)}")
     if errors:
         print("Validation issues:")
         for item in errors:
