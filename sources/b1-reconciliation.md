@@ -58,3 +58,9 @@ The 806 candidate headwords are a discovery count from a third-party extraction,
 The next alphabetical batch adds 11 records, continuing after `analysis`: `announce`, `announcement`, `annoy`, `annoyed`, `annoying`, `apart`, `apologise`, `application`, `appointment`, `appreciate` and `approximately`. Their B1 part-of-speech assignments were checked against the Oxford 3000 wordlist; the corresponding Oxford Advanced Learner’s Dictionary entries were checked for UK IPA and the selected meanings. Original example sentences and Ukrainian translations were written for this project.
 
 Oxford's wordlist uses the spelling `apologize`; this dataset uses the standard British spelling `apologise`, supported by the Oxford entry's explicit British-English variant. The application entry is restricted to the B1 job/course application sense; the computing sense is B2 and is not included. The appointment entry illustrates the B1 arrangement-to-meet sense, not the separate B2 job/position sense.
+
+## Fourth verified B1 batch
+
+The following 11 records extend the alphabetical inventory from `arrest` through `authority`: `arrest` verb and noun, `arrival`, `assignment`, `assist`, `atmosphere`, `attach`, `attitude`, `attract`, `attraction` and `authority`. B1 part-of-speech assignments were checked against Oxford's wordlist; individual Oxford Advanced Learner’s Dictionary entries were checked for UK IPA and selected meanings. The examples and Ukrainian translations are original.
+
+For words with several meanings, the records deliberately illustrate a specific learner-relevant sense: `arrest` as a police action and as the noun event; `atmosphere` as the mood of a place; `attach` in an email context; and `attraction` as a place worth visiting. The same spelling in separate parts of speech is represented by separate records where Oxford assigns both to B1.
