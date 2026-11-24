@@ -146,3 +146,9 @@ All 31 new records remain `needs_review`: the CEFR/POS assignments are supported
 Twenty-four records were added from the current Oxford B1-filtered list: `garage` noun, `gather` verb, `generally` adverb, `generation` noun, `generous` adjective, `gentle` adjective, `gentleman` noun, `ghost` noun, `giant` adjective and noun, `glad` adjective, `global` adjective, `glove` noun, `go` noun, `goods` noun, `grade` noun, `graduate` noun and verb, `grain` noun, `grateful` adjective, `growth` noun, `guard` noun and verb, and `guilty` adjective. The `go` noun record is separate from `go` verb A1; other B1 grammatical uses are recorded separately where Oxford lists them. All 24 records remain `needs_review` pending individual dictionary verification.
 
 Primary source: current Oxford B1-filtered wordlist https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000. The list assigns a CEFR level to each part-of-speech entry, so the B1 classification must be checked at the POS level rather than by headword alone.
+
+## Eighteenth B1 batch: hand–hurry (candidate records pending dictionary verification)
+
+Twenty-two records were added from the current Oxford B1-filtered list: `hand` verb, `hang` verb, `happiness` noun, `hardly` adverb, `head` verb, `headline` noun, `heating` noun, `heavily` adverb, `helicopter` noun, `highlight` noun and verb, `highly` adverb, `hire` verb, `historic` adjective, `historical` adjective, `honest` adjective, `horrible` adjective, `horror` noun, `host` noun, `hunt` verb, and `hurry` noun and verb. Lower-level headword uses remain distinct (for example, `hand` and `head` nouns are A1). All new records remain `needs_review` pending individual UK IPA, meaning and example verification.
+
+Primary source: current Oxford B1-filtered wordlist https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000.
