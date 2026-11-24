@@ -64,3 +64,11 @@ Oxford's wordlist uses the spelling `apologize`; this dataset uses the standard 
 The following 11 records extend the alphabetical inventory from `arrest` through `authority`: `arrest` verb and noun, `arrival`, `assignment`, `assist`, `atmosphere`, `attach`, `attitude`, `attract`, `attraction` and `authority`. B1 part-of-speech assignments were checked against Oxford's wordlist; individual Oxford Advanced Learner’s Dictionary entries were checked for UK IPA and selected meanings. The examples and Ukrainian translations are original.
 
 For words with several meanings, the records deliberately illustrate a specific learner-relevant sense: `arrest` as a police action and as the noun event; `atmosphere` as the mood of a place; `attach` in an email context; and `attraction` as a place worth visiting. The same spelling in separate parts of speech is represented by separate records where Oxford assigns both to B1.
+
+## Fifth B1 batch: autumn–beauty
+
+Thirteen records were added in alphabetical order: `autumn` (noun), `average` (verb), `award` (verb), `aware` (adjective), `backwards` (adverb), `bake` (verb), `balance` (noun and verb), `base` (noun, military-place sense), `basic` (adjective), `basis` (noun), `battery` (noun) and `beauty` (noun).
+
+Individual Oxford Advanced Learner’s Dictionary entries were checked for UK IPA and selected meanings. The Oxford 3000 static list assigns the listed parts of speech to B1, except that the current online B1-filtered wordlist also surfaced `autumn` as B1 while the individual Oxford entry labels it Topics Time A1 and the static PDF lists it A1. Because the project gives priority to the current online wordlist but does not conceal the contradiction, `autumn` is included provisionally with `needs_review`; it must not be counted as verified until the discrepancy is resolved. The remaining 12 records have `verified` status based on their Oxford wordlist assignment and individual dictionary entry.
+
+The `average` record is specifically the verb; its noun and adjective uses are A2. The `award` record is specifically the verb; its noun use is A2. The two `balance` records represent distinct parts of speech. The `base` noun record is restricted to the military-place sense, which Oxford marks B1; other senses may have different levels.
