@@ -152,3 +152,11 @@ Primary source: current Oxford B1-filtered wordlist https://www.oxfordlearnersdi
 Twenty-two records were added from the current Oxford B1-filtered list: `hand` verb, `hang` verb, `happiness` noun, `hardly` adverb, `head` verb, `headline` noun, `heating` noun, `heavily` adverb, `helicopter` noun, `highlight` noun and verb, `highly` adverb, `hire` verb, `historic` adjective, `historical` adjective, `honest` adjective, `horrible` adjective, `horror` noun, `host` noun, `hunt` verb, and `hurry` noun and verb. Lower-level headword uses remain distinct (for example, `hand` and `head` nouns are A1). All new records remain `needs_review` pending individual UK IPA, meaning and example verification.
 
 Primary source: current Oxford B1-filtered wordlist https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000.
+
+## Nineteenth B1 batch: identity–IT (candidate records pending dictionary verification)
+
+Thirty-four records were added from the current Oxford B1-filtered list: `identity` noun, `ignore` verb, `immediate` adjective, `immigrant` noun, `impact` noun and verb, `import` noun and verb, `importance` noun, `impression` noun, `impressive` adjective, `improvement` noun, `incredibly` adverb, `indeed` adverb, `indicate` verb, `indirect` adjective, `indoor` adjective, `indoors` adverb, `influence` noun and verb, `ingredient` noun, `injure` verb, `injured` adjective, `innocent` adjective, `intelligence` noun, `intend` verb, `intention` noun, `invest` verb, `investigate` verb, `involved` adjective, `iron` noun and verb, `issue` noun, and `IT` noun. The `IT` noun is separate from the A1 pronoun `it`.
+
+The existing A2 record for `ill` adjective was not duplicated into B1: the current search snippets produced conflicting level signals for this entry, so it requires a dedicated Oxford-entry reconciliation before any level change. All 34 new records remain `needs_review` pending individual UK IPA, meaning and example verification.
+
+Primary source: current Oxford B1-filtered wordlist https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000.
