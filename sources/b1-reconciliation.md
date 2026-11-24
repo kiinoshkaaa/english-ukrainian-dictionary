@@ -161,7 +161,7 @@ The existing A2 record for `ill` adjective was not duplicated into B1: the curre
 
 Primary source: current Oxford B1-filtered wordlist https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000.
 
-## Nineteenth? Correction: twentieth B1 batch, judge–kiss (candidate records pending dictionary verification)
+## Twentieth B1 batch: judge–kiss (candidate records pending dictionary verification)
 
 Eleven records were added from the current Oxford B1-filtered list: `judge` noun and verb, `keen` adjective, `key` verb, `keyboard` noun, `kick` noun and verb, `killing` noun, `kind` adjective, and `kiss` noun and verb. The noun `key` and noun `kind` remain A1 in the existing A1 inventory; these new records represent separate B1 grammatical uses. All eleven records remain `needs_review` pending individual dictionary verification.
 
