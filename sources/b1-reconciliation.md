@@ -108,3 +108,9 @@ A correction was made to the previous batch: `comparison` noun was removed from 
 Twenty-one records were added: `costume`, `cottage`, `cotton`, `count` noun, `countryside`, `court`, `cover` noun, `covered`, `cream` adjective, `criminal` adjective, `cruel`, `cultural`, `currency`, `current` adjective, `currently`, `curtain`, `custom`, `cut` noun, `daily` adverb, and `damage` noun and verb. Oxford's current online wordlist and official B1 list support these part-of-speech/level assignments. Related lower-level uses remain separate: `count` verb A2, `cover` verb A2, `cream` noun A1, `criminal` noun A2, `cut` verb A1 and `daily` adjective A2. All new records remain `needs_review` pending individual dictionary verification.
 
 References: https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000 and https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf.
+
+## Twelfth B1 batch: deal–dislike (candidate records pending dictionary verification)
+
+Twenty-six records were added: `deal` noun, `decade`, `deep` adverb, `define`, `definite`, `definition`, `deliver`, `departure`, `despite`, `destination`, `determine`, `determined`, `development`, `diagram`, `diamond`, `difficulty`, `direct` verb and adverb, `directly`, `dirt`, `disadvantage`, `disappointed`, `disappointing`, `discount` noun, and `dislike` noun and verb. Oxford's official by-CEFR list supports these entries. Distinct lower-level forms remain separate: `deal` verb A2, `deep` adjective A2 and `direct` adjective A2. `discount` verb is B2 and is not included.
+
+All 26 records remain `needs_review` pending individual UK IPA and selected-sense verification. References: https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000 and https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf.
