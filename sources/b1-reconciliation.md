@@ -203,3 +203,15 @@ The list distinguishes several lower-level uses already present in the repositor
 The B1-filtered current online Oxford page could not be independently opened during this pass; the PDF snapshot and the individual nuclear entry are the available supporting references. Do not interpret this batch as a completed level reconciliation. All IPA, Ukrainian glosses and original examples are provisional pending individual dictionary review.
 
 References: Oxford 3000 PDF snapshot https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000.pdf (N entries); Oxford's current Oxford 3000/5000 overview https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000; Oxford nuclear entry https://www.oxfordlearnersdictionaries.com/us/definition/english/nuclear.
+
+## Twenty-fourth B1 batch: obvious–outdoors (candidate records pending individual dictionary verification)
+
+Seventeen records were added for the O section: `obvious` adjective, `obviously` adverb, `occasion` noun, `occur` verb, `odd` adjective, `official` adjective, `old-fashioned` adjective, `once` conjunction, `operation` noun, `organized` adjective, `organizer` noun, `original` noun, `originally` adverb, `ought` modal verb, `ours` pronoun, `outdoor` adjective, and `outdoors` adverb.
+
+The current Oxford B1-filtered list directly supports `obvious`, `obviously`, `occasion`, `occur`, `odd`, and `official` adjective as B1. The Oxford list results also distinguish `once` conjunction B1 from adverb A1; `official` noun is B2; `ours` pronoun B1 from `ourselves` pronoun A2; and `outdoor` adjective plus `outdoors` adverb B1. The published Oxford 3000 list snapshot supports `old-fashioned` adjective, `operation` noun, `organized` adjective, `organizer` noun, `original` noun, `originally` adverb and `ought` modal verb at B1. These snapshot-based entries remain provisional until checked against the current online filter.
+
+Nearby exclusions are deliberately not added: `offer` noun/verb A2, `officer` noun A2, `oil` noun A2, `opportunity` noun A2, `option` noun A2, `ordinary` adjective A2, `organisation` noun A2, `organise` verb A2, `outside` adjective/noun/preposition A2 and adverb A1, `oven` noun A2, `ourselves` pronoun A2, `operator` noun B2, and `offshore` adjective C1.
+
+All 17 new records remain `needs_review`. The individual UK IPA, precise sense, Ukrainian translation and original example pair have not yet completed independent dictionary review. The headwords `organized` and `organizer` follow the spelling used in the Oxford list; British variants `organised` and `organiser` should be considered during the final editorial normalization.
+
+Primary references: current Oxford B1-filtered list https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000; Oxford's official Oxford 3000 wordlist PDF snapshot https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000.pdf; Oxford's overview of CEFR and POS filtering https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000.
