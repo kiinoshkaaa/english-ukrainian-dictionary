@@ -52,3 +52,9 @@ Oxford explains that the Oxford 3000 covers A1–B2 and that its online wordlist
 ## Scope warning
 
 The 806 candidate headwords are a discovery count from a third-party extraction, not a verified Oxford B1 total. No claim of B1 completeness should be made until the current official list has been reconciled by headword, part of speech and sense.
+
+## Third verified B1 batch
+
+The next alphabetical batch adds 11 records, continuing after `analysis`: `announce`, `announcement`, `annoy`, `annoyed`, `annoying`, `apart`, `apologise`, `application`, `appointment`, `appreciate` and `approximately`. Their B1 part-of-speech assignments were checked against the Oxford 3000 wordlist; the corresponding Oxford Advanced Learner’s Dictionary entries were checked for UK IPA and the selected meanings. Original example sentences and Ukrainian translations were written for this project.
+
+Oxford's wordlist uses the spelling `apologize`; this dataset uses the standard British spelling `apologise`, supported by the Oxford entry's explicit British-English variant. The application entry is restricted to the B1 job/course application sense; the computing sense is B2 and is not included. The appointment entry illustrates the B1 arrangement-to-meet sense, not the separate B2 job/position sense.
