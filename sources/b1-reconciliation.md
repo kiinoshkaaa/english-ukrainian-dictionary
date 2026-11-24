@@ -181,3 +181,13 @@ The current Oxford online wordlist is the CEFR/POS basis for these candidates. L
 All 35 entries remain `needs_review`. The Oxford wordlist supports the provisional CEFR/POS assignment, but the UK IPA, exact dictionary sense, Ukrainian gloss and example pair have not yet been individually audited. The initial `liquid` adjective and `live` adjective examples were revised after editorial review; all entries remain subject to individual verification.
 
 Primary reference: current Oxford 3000 B1-filtered wordlist, https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000. Searchable list result: Oxford's L entries and grammatical classifications, including the distinctions above. General Oxford 3000 reference: https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000.
+
+## Twenty-second B1 batch: mad–mystery (candidate records pending individual dictionary verification)
+
+Twenty-nine records were added for the M section: `mad` adjective, `magic` noun, `magical` adjective, `mall` noun, `mainstream` adjective, `management` noun, `market` verb, `marketing` noun, `marriage` noun, `meanwhile` adverb, `measure` noun and verb, `medium` adjective, `mental` adjective, `mention` noun, `mess` noun, `mild` adjective, `mine` noun, `mix` noun and verb, `mixture` noun, `mood` noun, `move` noun, `mud` noun, `murder` noun and verb, `muscle` noun, `musical` noun, and `mystery` noun.
+
+The current Oxford 3000 online list assigns these B1 levels by part of speech. Important exclusions and distinctions: `magic` adjective is A1 while the noun is B1; `manager` noun is A2 while `management` noun is B1; `market` noun is A1 while the verb is B1; `marketplace` is C1 and is excluded; `mention` verb is A2 while the noun is B1; `medium` adjective is B1 while the noun is B2; `mine` pronoun is A2 while the noun is B1; `move` verb is A1 while the noun is B1; `musical` adjective is A2 while the noun is B1. The Oxford list also places `mainstream` noun at C1 and only the adjective at B1.
+
+All 29 records remain `needs_review`. The online Oxford list supports the provisional CEFR/POS classifications; individual dictionary checks of UK IPA, exact senses and examples are still required. In particular, pronunciation and sense distinctions for `mad`, `medium`, `mine`, and `musical` must be retained during final review.
+
+Primary reference: current Oxford 3000 B1-filtered wordlist, https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000. The same source lists adjacent A1/A2/B2/C1 entries, allowing POS-level distinctions to be checked.
