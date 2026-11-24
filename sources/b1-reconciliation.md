@@ -171,3 +171,13 @@ Primary source: current Oxford B1-filtered wordlist https://www.oxfordlearnersdi
 ## Level-conflict correction: bee and belt
 
 A later check of the current Oxford B1-filtered online list (https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000) shows `bee` noun and `belt` noun as B1. This conflicts with the earlier dictionary/topic-level classification used in the sixth-batch note (bee A1 and belt A2). The B1 records have now been added provisionally as `needs_review` rather than silently choosing one source. The existing A2 `belt` record is retained pending a direct comparison of the current Oxford wordlist item and the individual Oxford dictionary entry. No claim is made that the conflict has been resolved.
+
+## Twenty-first B1 batch: latest–luxury (candidate records pending individual dictionary verification)
+
+Thirty-five records were added for the L section: `latest` adjective, `lay` verb, `layer` noun, `lead` noun, `leading` adjective, `leaf` noun, `leather` noun, `label` verb, `laboratory` noun, `lack` verb, `legal` adjective, `leisure` noun, `length` noun, `level` adjective, `lie` noun and verb, `like` noun, `limit` noun and verb, `lip` noun, `liquid` adjective and noun, `literature` noun, `live` adjective and adverb, `living` adjective and noun, `local` noun, `locate` verb, `located` adjective, `location` noun, `lonely` adjective, `loss` noun, and `luxury` adjective and noun.
+
+The current Oxford online wordlist is the CEFR/POS basis for these candidates. Lower-level or other-level forms are kept separate: `label` noun A2; `lack` noun B2; `level` noun A2 and verb B2; `lie` verb A1 for the horizontal-position sense versus B1 for the untruth sense; `like` verb/preposition A1; `local` adjective A1; and `live` verb A1. `labour` noun is B2 and is not included. The list also distinguishes `latest` adjective B1 from `latest` noun B2, and `luxury` adjective/noun B1.
+
+All 35 entries remain `needs_review`. The Oxford wordlist supports the provisional CEFR/POS assignment, but the UK IPA, exact dictionary sense, Ukrainian gloss and example pair have not yet been individually audited. The entry `liquid` adjective example is explicitly provisional and must be rewritten during editorial review if it does not pass naturalness checks.
+
+Primary reference: current Oxford 3000 B1-filtered wordlist, https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000. Searchable list result: Oxford's L entries and grammatical classifications, including the distinctions above. General Oxford 3000 reference: https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000.
