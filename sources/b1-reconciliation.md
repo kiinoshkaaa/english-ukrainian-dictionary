@@ -96,3 +96,9 @@ All 24 records remain `needs_review` pending individual dictionary checks of UK 
 Twenty-two records were added alphabetically from `clue` through `confirm`: `clue`, `coach` verb, `coal`, `coin`, `collection`, `coloured`, `combine`, `comment` verb, `commercial` adjective and noun, `commit`, `communication`, `comparison`, `competitor`, `competitive`, `complaint`, `complex`, `concentrate`, `conclude`, `conclusion`, `confident` and `confirm`. Oxford's current online B1 wordlist and the official by-CEFR PDF support the B1 assignments. Existing A2 uses remain distinct: `coach` noun and `comment` noun are A2; the newly added records are the verb uses. All records remain `needs_review` until the individual dictionary entry, UK IPA, selected meaning and example pair are checked.
 
 References: https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000 and https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf.
+
+## Tenth B1 batch: confuse–cool (candidate records pending dictionary verification)
+
+Fourteen records were added: `confuse` verb, `confused` adjective, `connection`, `consequence`, `consist`, `consumer`, `contact` noun and verb, `content` noun, `contrast` noun and verb, `convenient`, `convince` and `cool` verb. The current Oxford online wordlist supports these B1 assignments and part-of-speech distinctions. `confusing` is B2, `content` adjective is C1, and `cool` adjective is A1; those uses are not included here.
+
+A correction was made to the previous batch: `comparison` noun was removed from B1 because the current Oxford online list classifies it as A1, despite the older static by-CEFR PDF placing it at B1. This is an example of why the current online list takes precedence. All 14 new records remain `needs_review` pending individual UK IPA and sense verification. Source: https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000.
