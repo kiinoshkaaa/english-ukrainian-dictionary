@@ -114,3 +114,9 @@ References: https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000
 Twenty-six records were added: `deal` noun, `decade`, `deep` adverb, `define`, `definite`, `definition`, `deliver`, `departure`, `despite`, `destination`, `determine`, `determined`, `development`, `diagram`, `diamond`, `difficulty`, `direct` verb and adverb, `directly`, `dirt`, `disadvantage`, `disappointed`, `disappointing`, `discount` noun, and `dislike` noun and verb. Oxford's official by-CEFR list supports these entries. Distinct lower-level forms remain separate: `deal` verb A2, `deep` adjective A2 and `direct` adjective A2. `discount` verb is B2 and is not included.
 
 All 26 records remain `needs_review` pending individual UK IPA and selected-sense verification. References: https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000 and https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf.
+
+## Thirteenth B1 batch: divide–duty (candidate records pending dictionary verification)
+
+Thirteen records were added: `divide` verb, `documentary`, `donate`, `double` adverb, `doubt` noun and verb, `dressed`, `drop` noun, `drum`, `drunk`, `due`, `dust` and `duty`. The current Oxford online wordlist supports the B1 assignments and distinctions: `divide` verb B1 (noun B2), `double` adverb B1 (other listed grammatical uses A2), and `drop` noun B1 (verb A2). `district` was not added because the current online list classifies it as B2, despite older American-list evidence that differs. All 13 records remain `needs_review` pending individual dictionary checks.
+
+References: https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000 and https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf.
