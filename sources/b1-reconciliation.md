@@ -2,7 +2,8 @@
 
 ## Current repository state
 
-- `data/b1/words.csv` currently contains 1 record: `experiment` (verb).
+- `data/b1/words.csv` currently contains 1 record: `experiment` (verb), now assigned globally unique ID `2038`.
+- A repository-wide ID audit found three collisions across A1/A2/B1. The A2 records `ski` adjective, `surprise` verb and `tie` noun were reassigned from `2031–2033` to `2035–2037`; the B1 `experiment` verb was reassigned from `2033` to `2038`. Existing A1 IDs `2031` (`be` auxiliary) and `2032` (`do` auxiliary) were retained. A2 `jump` verb keeps ID `2034`.
 - The record is already documented as B1 according to the current Oxford 3000 online classification. Cambridge labels the cited verb sense B2; the existing note records this source discrepancy.
 - The A1 and A2 files must be considered during B1 reconciliation because the same spelling can have a different CEFR level for another part of speech or sense.
 
