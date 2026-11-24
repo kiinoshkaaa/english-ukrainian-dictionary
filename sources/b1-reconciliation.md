@@ -191,3 +191,15 @@ The current Oxford 3000 online list assigns these B1 levels by part of speech. I
 All 29 records remain `needs_review`. The online Oxford list supports the provisional CEFR/POS classifications; individual dictionary checks of UK IPA, exact senses and examples are still required. In particular, pronunciation and sense distinctions for `mad`, `medium`, `mine`, and `musical` must be retained during final review.
 
 Primary reference: current Oxford 3000 B1-filtered wordlist, https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000?dataset=english&level=b1&list=ox3000. The same source lists adjacent A1/A2/B2/C1 entries, allowing POS-level distinctions to be checked.
+
+## Twenty-third B1 batch: nail–nuclear (candidate records pending current-list reconciliation and individual dictionary verification)
+
+Twenty records were added provisionally for the N section: `nail` noun, `narrative` noun and adjective, `nation` noun, `native` adjective and noun, `naturally` adverb, `necessarily` adverb, `need` modal verb, `needle` noun, `neighbourhood` noun, `neither` adverb, `net` noun, `next` noun, `nor` conjunction/adverb, `normal` noun, `northern` adjective, `note` verb, `now` conjunction, and `nuclear` adjective.
+
+The primary evidence used for this provisional batch is the published Oxford 3000 PDF snapshot, which explicitly lists the headwords and grammatical categories at B1. The project normally prioritizes the current online Oxford list; this PDF snapshot is not treated as proof that every assignment remains unchanged online. Accordingly, all 20 records remain `needs_review` until current online level/POS status and each individual dictionary entry have been checked.
+
+The list distinguishes several lower-level uses already present in the repository: `need` lexical verb A1 and noun A2 versus modal verb B1; `neither` determiner/pronoun A2 versus adverb B1; `next` adjective/adverb A1 versus noun B1; `normal` adjective A2 versus noun B1; and `note` noun A1 versus verb B1. `negative` adjective is A1 and noun B2; `network` noun is A2; `nervous` adjective is A2; `notice` noun/verb is A2; `novel` noun is A2; `numerous` adjective is B2; these are not added to B1. The static Oxford list also shows `native` adjective/noun B1, `naturally` adverb B1, `necessarily` adverb B1, `neighbourhood` noun B1, `nuclear` adjective B1, and `narrative` noun/adjective B1.
+
+The B1-filtered current online Oxford page could not be independently opened during this pass; the PDF snapshot and the individual nuclear entry are the available supporting references. Do not interpret this batch as a completed level reconciliation. All IPA, Ukrainian glosses and original examples are provisional pending individual dictionary review.
+
+References: Oxford 3000 PDF snapshot https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000.pdf (N entries); Oxford's current Oxford 3000/5000 overview https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000; Oxford nuclear entry https://www.oxfordlearnersdictionaries.com/us/definition/english/nuclear.
